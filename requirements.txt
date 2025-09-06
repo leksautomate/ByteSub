@@ -1,0 +1,7 @@
+# ByteSub - AI Subtitle & Transcript Generator
+# Dependencies
+
+faster-whisper>=0.9.0
+PyQt6>=6.5.0
+ffmpeg-python>=0.2.0
+yt-dlp>=2023.7.6
