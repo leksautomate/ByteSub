@@ -12,7 +12,7 @@
 - 🔄 **Batch Processing**: Process multiple files at once
 - 📱 **Format Support**: MP4, MP3, WAV, MKV, MOV files
 
-  ![Splash Screen](translator/Screenshot.png)
+  ![Splash Screen](Screenshot.png)
 
 ## Installation
 
